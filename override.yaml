@@ -1,0 +1,8 @@
+# Overriding values in the helm chart
+resources:
+  constraints:
+    enabled: true
+
+autoscaling:
+  enabled: true
+  minReplicas: 2
