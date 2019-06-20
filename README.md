@@ -1,2 +1,2 @@
-# tf_helm_chart_websphere
-Terraform template to install websphere helm chart on IKS cluster
+# tf_helm_chart_open-liberty
+Terraform template to install ibm-open-liberty  helm chart on IKS cluster
